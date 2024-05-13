@@ -8,7 +8,7 @@ _İçerik;_
   Sadece küçük harfler ve sayılardan oluşan şifreler oluşturur.***
 
   
-    ***2.Seviye:
+  ***2.Seviye:
   Küçük hafler büyük harfler ve sayılardan oluşan şifreler oluşturur***
 
   
