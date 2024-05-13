@@ -1,4 +1,4 @@
-# password-generator
+# password-generator by WoxicDEV
 
 
 ***Bu projede 3 seviyeden oluşan bir şifre oluşturucu yaptım.***
