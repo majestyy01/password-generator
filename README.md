@@ -6,8 +6,12 @@
 _İçerik;_
   ***1.Seviye:
   Sadece küçük harfler ve sayılardan oluşan şifreler oluşturur.***
+
+  
     ***2.Seviye:
   Küçük hafler büyük harfler ve sayılardan oluşan şifreler oluşturur***
+
+  
    ***3.Seviye:
   Küçük harfler büyük harfler sayılar ve özel karakterlerden oluşan şifreler oluşturur.***
 
